@@ -18,7 +18,7 @@
             "type": "NAVIGATE_TO_FORM",
             "formId": "frmLocalStoreAPI",
             "formKUID": "c164f8e3674d47e5a6e86aae9f8cae54",
-            "projectName": "storeDSLocalAPI",
+            "projectName": "storeapi1",
             "mappings": {},
             "mappingsOrder": [],
             "enableMappingEditor": true,
