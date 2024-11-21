@@ -54,7 +54,7 @@
     "adaptivewebmanifestjson": "",
     "allJoyn": "false",
     "allowselfsignedcertificate": "false",
-    "andmaxsdkkey": "None",
+    "andmaxsdkkey": "14.0 (34)",
     "androidInstallLocation": "Auto",
     "androidInstallLocnPref": "false",
     "android_allowselfsignedcertificates": "None",
@@ -266,7 +266,7 @@
     },
     "createdVizVersion": "9.1.10",
     "createdgaversion": "9.1.10",
-    "currentgaversion": "9.5.311",
+    "currentgaversion": "9.5.384",
     "deeplinkkey": "None",
     "defaultlocalekey": "",
     "defaulttheme": "defaultTheme",
@@ -412,7 +412,7 @@
             "version": "1.0"
         }
     },
-    "konyVizVersion": "9.5.311",
+    "konyVizVersion": "9.5.384",
     "lastmodifiedtime": "1604481215462",
     "location": "false",
     "mangoapptitlekey": ",,,,,,",
