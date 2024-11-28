@@ -222,7 +222,7 @@
         },
         "wType": "Appmenu"
     },
-    "appnamekey": "storeDSLocalAPI",
+    "appnamekey": "storeDSLocalAPI1",
     "appointments": "false",
     "apppackagekey": "com.orgname.storeDSLocalAPI",
     "apptitle": "",
@@ -382,7 +382,7 @@
     "keyStoreFilePathandwear": "",
     "kfAppInfo": {
         "36dadd2d-8bf8-4c99-9e3d-07801648e728": {
-            "appName": "storeDSLocalAPI",
+            "appName": "storeDSLocalAPI1",
             "baseId": "01ff1fdf-20f7-4b4c-9c47-aa7650d9f6a9",
             "id": "01ff1fdf-20f7-4b4c-9c47-aa7650d9f6a9",
             "version": "1.0"
@@ -400,13 +400,13 @@
             "version": "1.0"
         },
         "b67374b6-e537-455d-8abc-03e21bfb8186": {
-            "appName": "storeDSLocalAPI",
+            "appName": "storeDSLocalAPI1",
             "baseId": "cf326d07-14d4-4b86-9166-97aba86ce371",
             "id": "cf326d07-14d4-4b86-9166-97aba86ce371",
             "version": "1.0"
         },
         "ef80e03e-4c4c-44ad-a82c-333e93c6863e": {
-            "appName": "storeDSLocalAPI",
+            "appName": "storeDSLocalAPI1",
             "baseId": "4ed00263-54a3-481b-9809-d6d60f07037f",
             "id": "4ed00263-54a3-481b-9809-d6d60f07037f",
             "version": "1.0"
@@ -764,7 +764,7 @@
     "tcnoscriptmessage": "To use this site, first enable your browser's JavaScript support and then refresh this page.",
     "tcphoneformatindicator": "false",
     "tcrequiresGPSfuctionality": "false",
-    "test.automation.server.url": "http://192.168.0.96:9989/testresources/storeDSLocalAPI/",
+    "test.automation.server.url": "http://192.168.0.96:9989/testresources/storeDSLocalAPI1/",
     "thinwebcontextkey": "",
     "tileUpdateRecurrenceKey": "",
     "urlschemanameorder": "",
