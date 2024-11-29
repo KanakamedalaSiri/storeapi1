@@ -764,7 +764,7 @@
     "tcnoscriptmessage": "To use this site, first enable your browser's JavaScript support and then refresh this page.",
     "tcphoneformatindicator": "false",
     "tcrequiresGPSfuctionality": "false",
-    "test.automation.server.url": "http://192.168.0.96:9989/testresources/storeDSLocalAPI1/",
+    "test.automation.server.url": "http://192.168.0.96:9989/testresources/storeDSLocalAPI/",
     "thinwebcontextkey": "",
     "tileUpdateRecurrenceKey": "",
     "urlschemanameorder": "",
