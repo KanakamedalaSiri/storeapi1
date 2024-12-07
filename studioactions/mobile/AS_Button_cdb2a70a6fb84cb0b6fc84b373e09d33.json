@@ -12,7 +12,7 @@
             "type": "NAVIGATE_TO_FORM",
             "formId": "Form2",
             "formKUID": "c8bfe857fa8e4187a5960852080690dd",
-            "projectName": "storeDSLocalAPI",
+            "projectName": "storeapi1",
             "mappings": {},
             "mappingsOrder": [],
             "enableMappingEditor": true,

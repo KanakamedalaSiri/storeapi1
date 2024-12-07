@@ -59,7 +59,7 @@
                     "isStartupForm": true,
                     "key": "h3dc5b5c8f954045bb74bf58252c628c",
                     "loc": "8 24.845263671875003",
-                    "thumbnailURL": "/assets/storeDSLocalAPI/forms/mobile/Form1.sm/.thumbs/default.jpeg"
+                    "thumbnailURL": "/assets/storeapi1/forms/mobile/Form1.sm/.thumbs/default.jpeg"
                 },
                 {
                     "formKUID": "faf5fd4364ec447da6ff1250a5e6e90e",
@@ -67,7 +67,7 @@
                     "isStartupForm": false,
                     "key": "faf5fd4364ec447da6ff1250a5e6e90e",
                     "loc": "368 354.845263671875",
-                    "thumbnailURL": "/assets/storeDSLocalAPI/forms/mobile/Form2.sm/.thumbs/default.jpeg"
+                    "thumbnailURL": "/assets/storeapi1/forms/mobile/Form2.sm/.thumbs/default.jpeg"
                 },
                 {
                     "formKUID": "c164f8e3674d47e5a6e86aae9f8cae54",
@@ -75,7 +75,29 @@
                     "isStartupForm": false,
                     "key": "c164f8e3674d47e5a6e86aae9f8cae54",
                     "loc": "188 184.845263671875",
-                    "thumbnailURL": "/assets/storeDSLocalAPI/forms/mobile/frmLocalStoreAPI.sm/.thumbs/default.jpeg"
+                    "thumbnailURL": "/assets/storeapi1/forms/mobile/frmLocalStoreAPI.sm/.thumbs/default.jpeg"
+                }
+            ]
+        },
+        "tablet": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [],
+            "nodeDataArray": [
+                {
+                    "formKUID": "d5bb7a57eae84f8dbd59bfed05c0d8b6",
+                    "formName": "CopyForm",
+                    "isStartupForm": false,
+                    "key": "d5bb7a57eae84f8dbd59bfed05c0d8b6",
+                    "loc": "8 24.845263671875003",
+                    "thumbnailURL": "/assets/storeapi1/forms/tablet/CopyForm.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "j1fc6ffc71b54208b5842fbc450fb401",
+                    "formName": "Form2",
+                    "isStartupForm": false,
+                    "key": "j1fc6ffc71b54208b5842fbc450fb401",
+                    "loc": "8 524.8452636718749",
+                    "thumbnailURL": "/assets/storeapi1/forms/tablet/Form2.sm/.thumbs/default.jpeg"
                 }
             ]
         }
